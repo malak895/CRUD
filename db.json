@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "name": "malek",
+      "class": "IAG",
+      "address": "125 bizerte",
+      "email": "malakhammami263@gmail.com",
+      "city": "fdvzf",
+      "password": "125478"
+    },
+    {
+      "id": 7,
+      "name": "firas",
+      "class": "MEC",
+      "address": "bizerte",
+      "email": "malakhammami263@gmail.com",
+      "city": "bizerte",
+      "password": ""
+    },
+    {
+      "id": 8,
+      "name": ",nhbg",
+      "class": ":l;,nh",
+      "address": "kyjgf",
+      "email": ";k,jnh",
+      "city": "hj,gn",
+      "password": ";ukf"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
